@@ -1,3 +1,6 @@
 [submodule "test-remote-submodule"]
 	path = test-remote-submodule
 	url = https://github.com/KonstantinOd/django-experiment-3-app-module.git
+[submodule "submodule"]
+	path = submodule
+	url = https://github.com/KonstantinOd/django-experiment-3-app-module.git
